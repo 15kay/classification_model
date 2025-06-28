@@ -2,6 +2,8 @@
 # 📨 SMS Spam Classifier
 
 This project implements a machine learning pipeline to classify SMS messages as **Spam** or **Ham (Not Spam)**. It includes a Jupyter notebook for training and tuning multiple classification models, a JSON configuration file with hyperparameters, and an interactive Streamlit web application for real-time prediction.
+![Uploading image.png…]()
+
 
 ## 📁 Repository Structure
 
