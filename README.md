@@ -94,4 +94,4 @@ When using the Streamlit app, every classification is saved in `spam_predictions
 ## 👨‍🏫 Author
 
 **Kgaugelo Mmakola**  
-Educational Material for High School Machine Learning Projects
+Educational Material 
